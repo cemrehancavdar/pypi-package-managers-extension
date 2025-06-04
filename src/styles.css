@@ -1,0 +1,24 @@
+#uv-add-block {
+  position: relative;
+}
+
+#uv-add-block .dropdown-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+#uv-add-block .alt-buttons {
+  display: none;
+  margin-left: 0.5rem;
+  padding: 0;
+  border: none;
+}
+
+#uv-add-block .alt-buttons.show {
+  display: inline-block;
+}
+
+#uv-add-block .alt-btn[data-tool="uv"] {
+  border: 1px dotted hsla(0, 0%, 100%, 0.4);
+}

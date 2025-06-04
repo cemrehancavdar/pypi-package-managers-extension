@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "PyPI Package Managers",
+  "version": "1.0",
+  "description": "Add 'uv add' command on PyPI package pages",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://pypi.org/project/*"
+  ],
+  "icons": {
+    "24": "icons/24.png",
+    "48": "icons/48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://pypi.org/project/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ]
+}
