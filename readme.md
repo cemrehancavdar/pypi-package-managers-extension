@@ -1,8 +1,13 @@
 # PyPI Package Managers Extension
 
+![Extension Example](example.webp)
+
 Add instant install commands for `uv`, `poetry`, and `pdm` directly to PyPI package pages.
 
 > **Inspiration:** This extension is inspired by [alt-pkg](https://github.com/uncor3/alt-pkg).
+
+## Why?
+Why not.
 
 ## Features
 - Adds a command block to PyPI package pages for quick copying of `uv add`, `poetry add`, or `pdm add` commands.
