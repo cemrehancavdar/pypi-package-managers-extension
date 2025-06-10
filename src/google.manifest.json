@@ -4,7 +4,6 @@
   "version": "1.0",
   "description": "Add 'uv add' command on PyPI package pages",
   "permissions": [
-    "clipboardWrite"
   ],
   "host_permissions": [
     "https://pypi.org/project/*"
@@ -22,7 +21,7 @@
         "content.js"
       ],
       "css": [
-        "style.css"
+        "styles.css"
       ]
     }
   ]
