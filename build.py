@@ -45,7 +45,7 @@ def main():
         target = sys.argv[1]
         if target not in TARGETS:
             print(f"❌ Unknown target: {target}")
-            print(f"Usage: python build.py [google|firefox]")
+            print("Usage: python build.py [google|firefox]")
             return
         build(target)
     else:
