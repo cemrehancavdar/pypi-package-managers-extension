@@ -6,6 +6,10 @@ Add instant install commands for `uv`, `poetry`, and `pdm` directly to PyPI pack
 
 > **Inspiration:** This extension is inspired by [alt-pkg](https://github.com/uncor3/alt-pkg).
 
+- **GitHub:** [cemrehancavdar/pypi-package-managers-extension](https://github.com/cemrehancavdar/pypi-package-managers-extension)
+- **Chrome Web Store:** [PyPI Package Managers](https://chromewebstore.google.com/detail/pypi-package-managers/aclonoiklbpaapakhlofnbhhofodilim)
+- **Firefox Add-ons:** [PyPI Package Managers](https://addons.mozilla.org/en-US/firefox/addon/pypi-package-managers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 ## Why?
 Why not.
 
