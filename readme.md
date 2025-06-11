@@ -43,5 +43,10 @@ Why not.
 ## Contributing
 Pull requests and issues are welcome! Please open an issue to discuss your idea or bug before submitting a PR.
 
+## Similar Extension
+
+[PyPI Command Replacer (Chrome)](https://chromewebstore.google.com/detail/pypi-command-replacer/iabmlifkcbaeamdokiiadhpiaipbooea)
+
+
 ## License
 MIT License
